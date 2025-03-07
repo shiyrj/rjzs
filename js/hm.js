@@ -113,7 +113,7 @@ const data = [
 
     { name: 'Substance 3D 2024', link1: 'https://pan.xunlei.com/s/VNx_f1B0gXkn-5i91GhYMNRNA1?pwd=ak5b#', link2: '#' },
 
-    { name: 'AutoCAD 2025', link1: 'https://pan.xunlei.com/s/VOEKFQC1_k89bkSSS_5wMFPjA1?pwd=dguj#', link2: '#' },
+    { name: 'AutoCAD 2025', link1: 'https://pan.xunlei.com/s/VOKgMKs73LuBm6OhK7gpDvwFA1?pwd=y8ih# ', link2: '#' },
     { name: 'AutoCAD 2024', link1: 'https://pan.xunlei.com/s/VOEKF_Ryr1lcxE2OFLL9gUDpA1?pwd=i47z#', link2: '#' },
     { name: 'AutoCAD 2023', link1: 'https://pan.xunlei.com/s/VOEbejQSHbXbQuTEPQfmtsOQA1?pwd=mjbt#', link2: '#' },
     { name: 'AutoCAD 2022', link1: 'https://pan.xunlei.com/s/VOEberNmRi7Hps989ZgJq1JNA1?pwd=7je7#', link2: '#' },
