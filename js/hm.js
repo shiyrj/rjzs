@@ -189,7 +189,7 @@ const data = [
     { name: 'EndNote 21.5', link1: 'https://pan.xunlei.com/s/VOCJTgGxvHb0be1H8lAAykyNA1?pwd=n59g#', link2: '#' },
     { name: 'EndNote X9', link1: 'https://pan.xunlei.com/s/VOCYYQitV4ytDNzMKk-YR_qxA1?pwd=w8by#', link2: '#' },
 
-    { text: 'SolidWorks（SW）2025集合', url: 'https://pan.xunlei.com/s/VOKxpWZXqS8NwbVXslIV1_yuA1?pwd=nbrf# ' },
+    { name: 'SolidWorks（SW）2025集合', link1: 'https://pan.xunlei.com/s/VOKxpWZXqS8NwbVXslIV1_yuA1?pwd=nbrf#', link2: '#' },
 
 
     // ... 更多数据项
