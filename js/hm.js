@@ -190,6 +190,7 @@ const data = [
     { name: 'EndNote X9', link1: 'https://pan.xunlei.com/s/VOCYYQitV4ytDNzMKk-YR_qxA1?pwd=w8by#', link2: '#' },
 
     { name: 'SolidWorks（SW）2025集合', link1: 'https://pan.xunlei.com/s/VOKxpWZXqS8NwbVXslIV1_yuA1?pwd=nbrf#', link2: '#' },
+    { name: 'multisim 14.3', link1: 'https://pan.xunlei.com/s/VOL7TI3TW1Jzlzj2WC-ezVI_A1?pwd=p52z# ', link2: '#' },
 
 
     // ... 更多数据项
