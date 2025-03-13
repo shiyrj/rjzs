@@ -177,7 +177,7 @@ const data = [
     { name: 'MathType 7.4', link1: 'https://pan.xunlei.com/s/VNwTyLX-w-Qq-Zi4RKNij-6LA1?pwd=dsi8#', link2: '#' },
     { name: 'MathType 6.9', link1: 'https://pan.xunlei.com/s/VNwTyQB8cTOAOE7Tsmjx7RTWA1?pwd=asaf#', link2: '#' },
 
-    { name: 'Origin 2024', link1: 'https://pan.xunlei.com/s/VOAMX1wBI4RHNmN5x4mfd-ppA1?pwd=6i83#', link2: '#' },
+    { name: 'Origin 2024', link1: 'https://pan.xunlei.com/s/VOLCKcYYiYRh9GDPHK_jbCPJA1?pwd=u5q5# ', link2: '#' },
     { name: 'Origin 2022', link1: 'https://pan.xunlei.com/s/VNv2rKLCFRyhSGY7pwhBT9AeA1?pwd=psd8#', link2: '#' },
     { name: 'Origin 2021', link1: 'https://pan.xunlei.com/s/VNv2vK_bjdqRfzGgjZME5JZVA1?pwd=b9y2#', link2: '#' },
 
