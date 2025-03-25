@@ -53,7 +53,7 @@ const data = [
     { name: 'Animate(An)2018', link1: 'https://pan.xunlei.com/s/VOEZZmWup9Hp23sx4Ix47_H3A1?pwd=69tj#', link2: '#' },
     { name: 'Animate(An)2017', link1: 'https://pan.xunlei.com/s/VOEZZtext9Ep_CXOFtefobBFA1?pwd=t3vp#', link2: '#' },
 
-    { name: 'Audition(Au)2025', link1: 'https://pan.xunlei.com/s/VOEZ_tF1lRQsP37Bn7xlb9NoA1?pwd=gp6e#', link2: '#' },
+    { name: 'Audition(Au)2025', link1: 'https://pan.xunlei.com/s/VOMC85Q5N9IwuFk1k3xpoDDuA1?pwd=fns7#', link2: '#' },
     { name: 'Audition(Au)2024', link1: 'https://pan.xunlei.com/s/VOEZ_zx1wn7kwp16TSQAgO8OA1?pwd=75px#', link2: '#' },
     { name: 'Audition(Au)2023', link1: 'https://pan.xunlei.com/s/VOEZa6TDnKyMckrGh2XaPN7YA1?pwd=fyee#', link2: '#' },
     { name: 'Audition(Au)2022', link1: 'https://pan.xunlei.com/s/VOEZaEzTyAhQHJcxqJoLt1BOA1?pwd=sx8h#', link2: '#' },
@@ -139,7 +139,7 @@ const data = [
     { name: 'Revit 2025', link1: 'https://pan.xunlei.com/s/VNv2wbx9ViPDZJnmTOwAn91zA1?pwd=wnu8#', link2: '#' },
     { name: 'Revit 2024', link1: 'https://pan.xunlei.com/s/VNrOtmlNHRrfIS2BMJozJcPTA1?pwd=fvzx#', link2: '#' },
 
-    { name: '3ds max 2025', link1: 'https://pan.xunlei.com/s/VNudtv_Du7HmrImYf-QpVSSOA1?pwd=9cg2#', link2: '#' },
+    { name: '3ds max 2025', link1: 'https://pan.xunlei.com/s/VOMC7lcYsZ2mLIFhmaSb1I7yA1?pwd=95xy#', link2: '#' },
     { name: '3ds max 2024', link1: 'https://pan.xunlei.com/s/VNo2IKdmuQjsmR6LqTH1iHYQA1?pwd=jspn', link2: '#' },
 
     { name: 'office 2024', link1: 'https://pan.xunlei.com/s/VOLqPG0JJbKKeOYhrV9le48jA1?pwd=dmtu#', link2: '#' },
@@ -181,8 +181,8 @@ const data = [
     { name: 'Origin 2022', link1: 'https://pan.xunlei.com/s/VNv2rKLCFRyhSGY7pwhBT9AeA1?pwd=psd8#', link2: '#' },
     { name: 'Origin 2021', link1: 'https://pan.xunlei.com/s/VNv2vK_bjdqRfzGgjZME5JZVA1?pwd=b9y2#', link2: '#' },
 
-    { name: 'Matlab 2024B', link1: 'https://pan.xunlei.com/s/VO6l0ECzbr92W59lM--GaPG2A1?pwd=9npg#', link2: '#' },
-    { name: 'Matlab 2024A', link1: 'https://pan.xunlei.com/s/VO4G2iS3b7yi3DgovT_EXhQ6A1?pwd=9bfh#', link2: '#' },
+    { name: 'Matlab 2024B', link1: 'https://pan.xunlei.com/s/VOMC73W0VvPR4tHz67yr9QdhA1?pwd=hgsk#', link2: '#' },
+    { name: 'Matlab 2024A', link1: 'https://pan.xunlei.com/s/VOMC710QqDkS1CUvmYILgz1mA1?pwd=5zzd#', link2: '#' },
 
     { name: 'CorelDRAW（CDR）安装包集合', link1: 'https://pan.xunlei.com/s/VOIThS2jZYP5QNdpQ67pyN6zA1?pwd=9tjx#', link2: '#' },
 
