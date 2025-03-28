@@ -107,7 +107,7 @@ const data = [
     { name: 'Media Encoder(ME)2021', link1: 'https://pan.xunlei.com/s/VOEaxF0qTmi3r5axx3QDYEM7A1?pwd=f2mv#', link2: '#' },
     { name: 'Media Encoder(ME)2020', link1: 'https://pan.xunlei.com/s/VOEaxLAEt9Ep_CXOFtegfXS8A1?pwd=47jd#', link2: '#' },
 
-    { name: 'Character Animator(ch)2025', link1: 'https://pan.xunlei.com/s/VOEayYSX-PzUr2XwNn46Ad0UA1?pwd=eja5#', link2: '#' },
+    { name: 'Character Animator(ch)2025', link1: 'https://pan.xunlei.com/s/VOMN0h05o99O1BlM8d7PLPezA1?pwd=3avr#', link2: '#' },
 
     { name: 'Adobe XD 55.1', link1: 'https://pan.xunlei.com/s/VNqaFGeuFJ9XqL05KHqPo0IcA1?pwd=8xgw#', link2: '#' },
 
@@ -136,7 +136,7 @@ const data = [
     { name: 'AutoCAD 2005', link1: 'https://pan.xunlei.com/s/VOEbh8SEHOlVD9uHyIm2Mud-A1?pwd=hbsk#', link2: '#' },
     { name: 'AutoCAD 2004', link1: 'https://pan.xunlei.com/s/VOEbhG0FHTqVnGx-4AZjJvX0A1?pwd=abyh#', link2: '#' },
 
-    { name: 'Revit 2025', link1: 'https://pan.xunlei.com/s/VNv2wbx9ViPDZJnmTOwAn91zA1?pwd=wnu8#', link2: '#' },
+    { name: 'Revit 2025', link1: 'https://pan.xunlei.com/s/VOMN0j5KbutM3xhvguuNiGiEA1?pwd=5zy5# ', link2: '#' },
     { name: 'Revit 2024', link1: 'https://pan.xunlei.com/s/VNrOtmlNHRrfIS2BMJozJcPTA1?pwd=fvzx#', link2: '#' },
 
     { name: '3ds max 2025', link1: 'https://pan.xunlei.com/s/VOMC7lcYsZ2mLIFhmaSb1I7yA1?pwd=95xy#', link2: '#' },
