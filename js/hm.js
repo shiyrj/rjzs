@@ -35,7 +35,7 @@ const data = [
     { name: 'Acrobat 2021', link1: 'https://pan.xunlei.com/s/VOEZSUQEHTqVnGx-4AZi-FhPA1?pwd=c9ut#', link2: '#' },
     { name: 'Acrobat 2020', link1: 'https://pan.xunlei.com/s/VOEZSchXyAhQHJcxqJoLneIwA1?pwd=eaws#', link2: '#' },
 
-    { name: 'After Effects(AE)2025', link1: 'https://pan.xunlei.com/s/VOEZTB-ltIhYpjAA6xBboTKTA1?pwd=jt9k#', link2: '#' },
+    { name: 'After Effects(AE)2025', link1: 'https://pan.xunlei.com/s/VOMZjcqJE8VSPddHJ7V5rIRIA1?pwd=6prs#', link2: '#' },
     { name: 'After Effects(AE)2024', link1: 'https://pan.xunlei.com/s/VOEZTIsOCY0G0kzC0gaIx3uCA1?pwd=ujzw#', link2: '#' },
     { name: 'After Effects(AE)2023', link1: 'https://pan.xunlei.com/s/VOEZTQJvxbGbhJitRez0qIWsA1?pwd=wap8#', link2: '#' },
     { name: 'After Effects(AE)2022', link1: 'https://pan.xunlei.com/s/VOEZTXXKyAhQHJcxqJoLoDnHA1?pwd=vgk2#', link2: '#' },
@@ -113,8 +113,8 @@ const data = [
 
     { name: 'Substance 3D 2024', link1: 'https://pan.xunlei.com/s/VNx_f1B0gXkn-5i91GhYMNRNA1?pwd=ak5b#', link2: '#' },
 
-    { name: 'AutoCAD 2025', link1: 'https://pan.xunlei.com/s/VOKgMKs73LuBm6OhK7gpDvwFA1?pwd=y8ih# ', link2: '#' },
-    { name: 'AutoCAD 2024', link1: 'https://pan.xunlei.com/s/VOEKF_Ryr1lcxE2OFLL9gUDpA1?pwd=i47z#', link2: '#' },
+    { name: 'AutoCAD 2025', link1: 'https://pan.xunlei.com/s/VOKgMKs73LuBm6OhK7gpDvwFA1?pwd=y8ih#', link2: '#' },
+    { name: 'AutoCAD 2024', link1: 'https://pan.xunlei.com/s/VOMZjhHUqvtvLjxKcOVM3a0CA1?pwd=gbpf#', link2: '#' },
     { name: 'AutoCAD 2023', link1: 'https://pan.xunlei.com/s/VOEbejQSHbXbQuTEPQfmtsOQA1?pwd=mjbt#', link2: '#' },
     { name: 'AutoCAD 2022', link1: 'https://pan.xunlei.com/s/VOEberNmRi7Hps989ZgJq1JNA1?pwd=7je7#', link2: '#' },
     { name: 'AutoCAD 2021', link1: 'https://pan.xunlei.com/s/VOEbezKDhr6W53jfBS8TdoJNA1?pwd=494a#', link2: '#' },
