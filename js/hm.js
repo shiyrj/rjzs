@@ -195,6 +195,8 @@ const data = [
 
     { name: 'C4D 2024', link1: 'https://pan.xunlei.com/s/VOLvdQkQQFnRPeT8IoSsh9aAA1?pwd=jpxx#', link2: '#' },
 
+    { name: '达芬奇19.1.2.3', link1: 'https://pan.xunlei.com/s/VOMeA5eaIHsFiWoMiPcboDp8A1?pwd=qy6r#', link2: '#' },
+
 
     // ... 更多数据项
 ];
