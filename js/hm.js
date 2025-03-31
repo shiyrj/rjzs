@@ -90,7 +90,7 @@ const data = [
 
     { name: 'InDesign(Id)2025', link1: 'https://pan.xunlei.com/s/VOEZxMPkwn7kwp16TSQAvm3WA1?pwd=g6bx#', link2: '#' },
 
-    { name: 'Lightroom(Lrc)2025', link1: 'https://pan.xunlei.com/s/VOEZxoaPsSs0sunbMym1BhgfA1?pwd=4s7b#', link2: '#' },
+    { name: 'Lightroom(Lrc)2025', link1: 'https://pan.xunlei.com/s/VOMe9cmTJkpurpEVYRtbY5aYA1?pwd=y6kp#', link2: '#' },
     { name: 'Lightroom(Lrc)2024', link1: 'https://pan.xunlei.com/s/VOE_-GvB-IMQk2enoy0wCnajA1?pwd=dpg8#', link2: '#' },
     { name: 'Lightroom(Lrc)2023', link1: 'https://pan.xunlei.com/s/VOE_-PM1W_67fEruMOO_NuYgA1?pwd=qxp7#', link2: '#' },
     { name: 'Lightroom(Lrc)2022', link1: 'https://pan.xunlei.com/s/VOE_-XcCRi7Hps989ZgIytllA1?pwd=f5tn#', link2: '#' },
