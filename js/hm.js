@@ -100,7 +100,7 @@ const data = [
     { name: 'Lightroom(Lrc)2018', link1: 'https://pan.xunlei.com/s/VOEavM4tJ-S-M_fGekxrb8sfA1?pwd=crsx#', link2: '#' },
     { name: 'Lightroom(Lrc)2017', link1: 'https://pan.xunlei.com/s/VOEav_ZsHbXbQuTEPQfmb7WGA1?pwd=84gj#', link2: '#' },
 
-    { name: 'Media Encoder(ME)2025', link1: 'https://pan.xunlei.com/s/VOEawEjPvB4s18bM2TsrUaIzA1?pwd=sza3#', link2: '#' },
+    { name: 'Media Encoder(ME)2025', link1: 'https://pan.xunlei.com/s/VOMk7zpNnCQshZaCbETiErEUA1?pwd=hz6s#', link2: '#' },
     { name: 'Media Encoder(ME)2024', link1: 'https://pan.xunlei.com/s/VOEawNcXPSWx_-SK6O7-CSUkA1?pwd=jpv6#', link2: '#' },
     { name: 'Media Encoder(ME)2023', link1: 'https://pan.xunlei.com/s/VOEax0sXkbk5Y4zs1mFv0xsVA1?pwd=e6fi#', link2: '#' },
     { name: 'Media Encoder(ME)2022', link1: 'https://pan.xunlei.com/s/VOEax7B6HTqVnGx-4AZizq4sA1?pwd=98uq#', link2: '#' },
@@ -196,6 +196,13 @@ const data = [
     { name: 'C4D 2024', link1: 'https://pan.xunlei.com/s/VOLvdQkQQFnRPeT8IoSsh9aAA1?pwd=jpxx#', link2: '#' },
 
     { name: '达芬奇19.1.2.3', link1: 'https://pan.xunlei.com/s/VOMeA5eaIHsFiWoMiPcboDp8A1?pwd=qy6r#', link2: '#' },
+
+    { name: 'AutoCAD建筑版2025', link1: 'https://pan.xunlei.com/s/VOMk8t48h2y-JNLOk2U6-DdUA1?pwd=asfm#', link2: '#' },
+    { name: 'AutoCAD建筑版2024', link1: 'https://pan.xunlei.com/s/VOMk8uhn94_I3oQwsr1YHLLvA1?pwd=9azk#', link2: '#' },
+    { name: 'AutoCAD机械版2025', link1: 'https://pan.xunlei.com/s/VOMk8h2fq4mnpKXvIpUEfcr6A1?pwd=8dt9#', link2: '#' },
+    { name: 'AutoCAD机械版2024', link1: 'https://pan.quark.cn/s/ffd132d0ac7a', link2: '#' },
+    { name: 'AutoCAD电气版2025', link1: 'https://pan.xunlei.com/s/VOMk8mrVUwh1Q0YQccp0Poh5A1?pwd=7uqw#', link2: '#' },
+    { name: 'AutoCAD电气版2024', link1: 'https://pan.xunlei.com/s/VOMk8pNdKgvk_a3AbmFvL-yBA1?pwd=chh8#', link2: '#' },
 
 
     // ... 更多数据项
