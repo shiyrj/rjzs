@@ -29,7 +29,7 @@ const data = [
     { name: 'Premiere(PR)2017', link1: 'https://pan.xunlei.com/s/VOEZREAfL06S0oFzxAj2RQbKA1?pwd=um63#', link2: '#' },
 
     { name: 'Acrobat 2025', link1: 'https://pan.xunlei.com/s/VOKfUh-Pedh7csmMmR9bkEjzA1?pwd=ixw3#', link2: '#' },
-    { name: 'Acrobat 2024', link1: 'https://pan.xunlei.com/s/VOEZRdaAPSWx_-SK6OAzFXTCA1?pwd=bkny#', link2: '#' },
+    { name: 'Acrobat 2024', link1: 'https://pan.xunlei.com/s/VON2i_Q4bjNuQ1O46mdUhPSCA1?pwd=sxvu#', link2: '#' },
     { name: 'Acrobat 2023', link1: 'https://pan.xunlei.com/s/VOEZRzFxyWlCfGOmSPJ1w5WpA1?pwd=kibq#', link2: '#' },
     { name: 'Acrobat 2022', link1: 'https://pan.xunlei.com/s/VOEZS6G-HOlVD9uHyIm18PLQA1?pwd=5i7y#', link2: '#' },
     { name: 'Acrobat 2021', link1: 'https://pan.xunlei.com/s/VOEZSUQEHTqVnGx-4AZi-FhPA1?pwd=c9ut#', link2: '#' },
