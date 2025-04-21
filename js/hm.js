@@ -115,10 +115,10 @@ const data = [
 
     { name: 'AutoCAD 2025', link1: 'https://pan.xunlei.com/s/VOKgMKs73LuBm6OhK7gpDvwFA1?pwd=y8ih#', link2: '#' },
     { name: 'AutoCAD 2024', link1: 'https://pan.xunlei.com/s/VOMZjhHUqvtvLjxKcOVM3a0CA1?pwd=gbpf#', link2: '#' },
-    { name: 'AutoCAD 2023', link1: 'https://pan.xunlei.com/s/VOEbejQSHbXbQuTEPQfmtsOQA1?pwd=mjbt#', link2: '#' },
-    { name: 'AutoCAD 2022', link1: 'https://pan.xunlei.com/s/VOEberNmRi7Hps989ZgJq1JNA1?pwd=7je7#', link2: '#' },
-    { name: 'AutoCAD 2021', link1: 'https://pan.xunlei.com/s/VOEbezKDhr6W53jfBS8TdoJNA1?pwd=494a#', link2: '#' },
-    { name: 'AutoCAD 2020', link1: 'https://pan.xunlei.com/s/VOEbf5RmTmi3r5axx3QDp4XjA1?pwd=bbw7#', link2: '#' },
+    { name: 'AutoCAD 2023', link1: 'https://pan.quark.cn/s/3fa816f24ff9', link2: '#' },
+    { name: 'AutoCAD 2022', link1: 'https://pan.quark.cn/s/ebe8f85e4c26', link2: '#' },
+    { name: 'AutoCAD 2021', link1: 'https://pan.quark.cn/s/9917ac1e294a', link2: '#' },
+    { name: 'AutoCAD 2020', link1: 'https://pan.xunlei.com/s/VOOMdOloHLEhsbIlZKsQsp7-A1?pwd=2d7n#', link2: '#' },
     { name: 'AutoCAD 2019', link1: 'https://pan.xunlei.com/s/VOEbfDSZPSWx_-SK6O7-TTIaA1?pwd=7vzn#', link2: '#' },
     { name: 'AutoCAD 2018', link1: 'https://pan.xunlei.com/s/VOEbfRQlHTqVnGx-4AZjIzj2A1?pwd=6fh4#', link2: '#' },
     { name: 'AutoCAD 2017', link1: 'https://pan.xunlei.com/s/VOEbf_GPlRQsP37Bn7xmkGn7A1?pwd=q5zb#', link2: '#' },
@@ -193,6 +193,7 @@ const data = [
 
     { name: 'multisim 14.3', link1: 'https://pan.xunlei.com/s/VOL7TI3TW1Jzlzj2WC-ezVI_A1?pwd=p52z#', link2: '#' },
 
+    { name: 'C4D 2025', link1: 'https://pan.xunlei.com/s/VOOMdUmriYyeD8a2TS_2Oz11A1?pwd=urpb#', link2: '#' },
     { name: 'C4D 2024', link1: 'https://pan.xunlei.com/s/VOLvdQkQQFnRPeT8IoSsh9aAA1?pwd=jpxx#', link2: '#' },
 
     { name: '达芬奇19.1.2.3', link1: 'https://pan.xunlei.com/s/VOMeA5eaIHsFiWoMiPcboDp8A1?pwd=qy6r#', link2: '#' },
