@@ -18,7 +18,7 @@ const data = [
     { name: 'Photoshop(PS)2018', link1: 'https://pan.xunlei.com/s/VOEK9muTDOAkeHJQzQaYukUWA1?pwd=wdj4#', link2: '#' },
     { name: 'Photoshop(PS)2017', link1: 'https://pan.xunlei.com/s/VOEK9pwq8HiN-rT80AMboCj6A1?pwd=rp64#', link2: '#' },
     { name: 'Photoshop(PS)CS6', link1: 'https://pan.xunlei.com/s/VOEK9v-jwj8BlTmeR44wVdI7A1?pwd=wpds#', link2: '#' },
-    { name: 'Premiere(PR)2025', link1: 'https://pan.xunlei.com/s/VOEKBRIwhhPtuR3NAlMDDGNcA1?pwd=9e5n#', link2: '#' },
+    { name: 'Premiere(PR)2025', link1: 'https://pan.xunlei.com/s/VOOVdRvfXzXBc2YlJ14MZ-qeA1?pwd=9jwg#', link2: '#' },
     { name: 'Premiere(PR)2024', link1: 'https://pan.xunlei.com/s/VOEKDzle1lSI7evBd1_k7iYcA1?pwd=dkuh#', link2: '#' },
     { name: 'Premiere(PR)2023', link1: 'https://pan.xunlei.com/s/VOEKESFbwj8BlTmeR44wYcf7A1?pwd=y2p5#', link2: '#' },
     { name: 'Premiere(PR)2022', link1: 'https://pan.xunlei.com/s/VOEZPS6DlRQsP37Bn7xlV5EkA1?pwd=f8e4#', link2: '#' },
@@ -73,7 +73,7 @@ const data = [
     { name: 'Dreamweaver(DW)2018', link1: 'https://pan.xunlei.com/s/VOEZtPVXt9Ep_CXOFteg0u3XA1?pwd=8aat#', link2: '#' },
     { name: 'Dreamweaver(DW)2017', link1: 'https://pan.xunlei.com/s/VOEZtX9kMtcmj_zSxEFWR_P2A1?pwd=p42x#', link2: '#' },
 
-    { name: 'illustrator(Ai)2025', link1: 'https://pan.xunlei.com/s/VOEZtoUGU-TBFZ0EnxIy3DypA1?pwd=wnzz#', link2: '#' },
+    { name: 'illustrator(Ai)2025', link1: 'https://pan.xunlei.com/s/VOOVdV_Yyh9lX_tN9sdVLOn6A1?pwd=xgxs#', link2: '#' },
     { name: 'illustrator(Ai)2024', link1: 'https://pan.xunlei.com/s/VOEZu3zh_7XNxteNQjrqthIfA1?pwd=fme6#', link2: '#' },
     { name: 'illustrator(Ai)2023', link1: 'https://pan.xunlei.com/s/VOEZuBkRhr6W53jfBS8SgNvzA1?pwd=z2b3#', link2: '#' },
     { name: 'illustrator(Ai)2022', link1: 'https://pan.xunlei.com/s/VOEZuiqJTmi3r5axx3QCsizTA1?pwd=zdrz#', link2: '#' },
